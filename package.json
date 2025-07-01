@@ -1,5 +1,5 @@
 {
-  "name": "youtubei.js",
+  "name": "@imput/youtubei.js",
   "version": "14.0.0",
   "description": "A JavaScript client for YouTube's private API, known as InnerTube.",
   "type": "module",
